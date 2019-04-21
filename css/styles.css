@@ -9,3 +9,13 @@
 .col {
     border: 1px solid blue;
 }
+
+.landing-icon {
+  display: block;
+  width: 100px;
+}
+
+.big-break {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
